@@ -11,3 +11,7 @@
   position: relative;
   margin-bottom: 35px;
 }
+
+.collection-item {
+  line-height: 3rem !important;
+}
