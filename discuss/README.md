@@ -1,6 +1,7 @@
 # Discuss
+A simple CRUD app to learn Elixir/Phoenix that mimics stack overflow.
 
-To start your Phoenix app:
+*To start your Phoenix app:*
 
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
